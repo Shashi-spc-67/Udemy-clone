@@ -1,14 +1,14 @@
 
 import React from 'react'
 
-// import Udemy from './components/Udemy'
-import MovieApi from './components/MovieApi'
+import Udemy from './components/Udemy'
+
 
 function App() {
   return (
     <div>
-      {/* <Udemy/> */}
-   <MovieApi/>
+      <Udemy/>
+  
     </div>
   )
 }
